@@ -1,0 +1,35 @@
+ *.class
+
+# Package Files #
+*.war
+*.ear
+/build
+/bin
+
+*.mtl
+*.classpath
+*.project
+# System Files
+*.dsstore
+*.metadata*
+
+
+/.settings
+/libs
+
+# Gradle
+/.gradle
+gradle-app.setting
+./gradle
+*.lock
+
+
+/eclipse/saves/testing
+eclipse
+*.dat
+
+*.mca
+
+*.mca
+
+*.dat
