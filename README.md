@@ -3,6 +3,10 @@ Example-Mod
 
 A quickly made example for non programers to learn Java
 
-Contrubuting
+Contributing
 -----------
-This mod is an example, so not contributions are requested
+This mod is an example, so no contributions are requested
+
+Issues
+------
+THERE ARE NONE
